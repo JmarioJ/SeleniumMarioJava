@@ -15,5 +15,6 @@ public class Myfirstcalss {
         Thread.sleep(7000);
         WebElement cookies =driver.findElement(By.xpath("//button[contains(text(),'Consenti cookie essenziali e facoltativi')]"));
         cookies.click();
+        //System.out.println("");out
     }
 }
