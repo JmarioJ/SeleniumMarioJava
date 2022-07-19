@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 
 
-public class Biglietti {
+public class biglietti {
     WebDriver driver;
 
     @BeforeTest
